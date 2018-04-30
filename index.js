@@ -30,7 +30,7 @@ app.post('/survey', (req, res)=>{
             res.json(d);
             return;
         }
-        if(Math.abs(optionsTotal - score) < currentClosest.score){
+        if(Math.abs(optionsTotal - score) < Math.abs(currentClosest.score - score)){
             currentClosest.index = i;
         }
         
