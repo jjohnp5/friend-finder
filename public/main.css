@@ -1,0 +1,20 @@
+body{
+    padding-top: 50px;
+}
+a {
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: wheat;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}

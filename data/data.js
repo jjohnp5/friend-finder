@@ -1,6 +1,6 @@
 
 
-exports.default =   [
+exports.data =   [
     {
         name: 'John',
         photo: 'http://placeholder.pics/svg/300',
@@ -17,7 +17,7 @@ exports.default =   [
             5
         ]
     },{
-        name: 'John',
+        name: 'Mike',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
@@ -32,7 +32,7 @@ exports.default =   [
             4
         ]
     },{
-        name: 'John',
+        name: 'Jake',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             5,
@@ -47,7 +47,7 @@ exports.default =   [
             5
         ]
     },{
-        name: 'John',
+        name: 'Jade',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             2,
@@ -62,7 +62,7 @@ exports.default =   [
             2
         ]
     },{
-        name: 'John',
+        name: 'Drew',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
@@ -77,7 +77,7 @@ exports.default =   [
             3
         ]
     },{
-        name: 'John',
+        name: 'Guy',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             2,
@@ -92,7 +92,7 @@ exports.default =   [
             3
         ]
     },{
-        name: 'John',
+        name: 'Brad',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
@@ -107,7 +107,7 @@ exports.default =   [
             5
         ]
     },{
-        name: 'John',
+        name: 'Colt',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
@@ -122,7 +122,7 @@ exports.default =   [
             4
         ]
     },{
-        name: 'John',
+        name: 'Boom',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
@@ -137,7 +137,7 @@ exports.default =   [
             4
         ]
     },{
-        name: 'John',
+        name: 'Ash',
         photo: 'http://placeholder.pics/svg/300',
         score: [
             3,
